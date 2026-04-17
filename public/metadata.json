@@ -1,0 +1,5 @@
+{
+  "name": "Autonomous Brand Factory",
+  "description": "An AI-powered autonomous factory that transforms ideas into complete commercial entities with strategy, design, and deployment.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
